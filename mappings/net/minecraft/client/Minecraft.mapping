@@ -1,0 +1,5 @@
+CLASS net/minecraft/client/Minecraft
+	FIELD field_1534 doRain Z
+	FIELD field_1551 playerControllable Lnet/minecraft/class_219;
+	FIELD field_1552 width I
+	FIELD field_1553 height I

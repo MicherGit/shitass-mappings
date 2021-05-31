@@ -1,5 +1,12 @@
 CLASS net/minecraft/client/Minecraft
 	FIELD field_1534 doRain Z
+	FIELD field_1536 maxChecker Lnet/minecraft/class_33;
+	FIELD field_1537 timer Lnet/minecraft/class_247;
 	FIELD field_1551 playerControllable Lnet/minecraft/class_219;
 	FIELD field_1552 width I
 	FIELD field_1553 height I
+	FIELD field_1554 world Lnet/minecraft/class_69;
+	FIELD field_1555 render Lnet/minecraft/class_121;
+	FIELD field_1556 entityPlayerSP Lnet/minecraft/class_37;
+	FIELD field_1557 renderFX Lnet/minecraft/class_45;
+	FIELD field_1558 gs Lnet/minecraft/class_106;
